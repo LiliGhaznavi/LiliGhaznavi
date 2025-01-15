@@ -17,13 +17,6 @@ Check out some of my featured repositories:
 - **[SkySavantApp](https://github.com/LiliGhaznavi/SkySavantApp)**: A weather app for tracking forecasts.
 - **[SoulStretchStudio](https://github.com/LiliGhaznavi/SoulStretchStudio)**: A responsive yoga website design.
 
-## 🛠️ The Tools I Love
-The right tools turn ideas into reality. Here are my go-tos:
-
-- **Figma**: For intuitive designs.
-- **VS Code**: For clean coding.
-- **Git & GitHub**: For collaboration.
-
 ## 🎹 Life Beyond Code
 Outside of coding, I play piano, read philosophical books, and spend time with my cockatiel. Nature and the sea inspire me, fueling my creativity and energy for coding and design.
 
