@@ -9,14 +9,6 @@ I’m a learning front-end developer and UI/UX designer with a passion for growt
 - Building responsive, functional websites with HTML, CSS, and JavaScript.
 - Creating user-friendly interfaces that balance aesthetics and usability.
 
-## 💡 My Projects
-Here, you’ll find my projects, a reflection of my dedication and passion for learning and creating.
-
-Check out some of my featured repositories:
-- **[MyPaperTrails](https://github.com/LiliGhaznavi/MyPaperTrails)**: A personal notebook website for sharing thoughts.
-- **[SkySavantApp](https://github.com/LiliGhaznavi/SkySavantApp)**: A weather app for tracking forecasts.
-- **[SoulStretchStudio](https://github.com/LiliGhaznavi/SoulStretchStudio)**: A responsive yoga website design.
-
 ## 🎹 Life Beyond Code
 Outside of coding, I play piano, read philosophical books, and spend time with my cockatiel. Nature and the sea inspire me, fueling my creativity and energy for coding and design.
 
