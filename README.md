@@ -9,4 +9,5 @@ Outside of coding, I love reading books, watching anime, exploring nature, pract
 
 #### My favorite line:
 
-**"The only way to do great work is to love what you do.❤️✨"**
+"The only way to do great work is to love what you do.❤️✨"
+– Steve Jobs
